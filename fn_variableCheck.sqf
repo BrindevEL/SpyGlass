@@ -4,6 +4,9 @@
     File: fn_variableCheck.sqf
     Author:ewq
 	1	
+	2
+	3
+	3
     Description:
     Checks against harmful variables, disable this if client-performance is
     to bad in the fn_initSpy.sqf, the menuCheck should be good enough!
