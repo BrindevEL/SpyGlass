@@ -2,8 +2,8 @@
 #define SPY_SETTINGS(TYPE,SETTING) TYPE(missionConfigFile >> "SpyGlass" >> SETTING)
 /*
     File: fn_variableCheck.sqf
-    Author:
-
+    Author:ewq
+	1	
     Description:
     Checks against harmful variables, disable this if client-performance is
     to bad in the fn_initSpy.sqf, the menuCheck should be good enough!
