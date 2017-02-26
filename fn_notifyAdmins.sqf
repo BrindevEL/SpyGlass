@@ -1,8 +1,8 @@
 #include "..\script_macros.hpp"
 /*
     File: fn_notifyAdmins.sqf
-    Author: Bryan "Tonic" Boardwine
-
+		Author: Bryan "Tonic" Boardwine
+	12
     Description:
     Checks if player is admin and notifies them that of the
     flagged person.
