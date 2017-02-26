@@ -2,7 +2,7 @@
 /*
     File: fn_initSpy.sqf
     Author:
-
+	22
     Description:
     Does some things that I made over-complicated / un-needed but blah.
     Will eventually include server-side checks but it's blah at this point.
